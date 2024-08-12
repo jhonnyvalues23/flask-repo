@@ -111,7 +111,7 @@ PySocks==1.7.1
 pytest==8.2.1
 python-dateutil==2.8.2
 pytz==2023.3.post1
-pywin32==306
+#pywin32==306
 pyzmq==25.1.2
 rapidfuzz==3.5.2
 referencing==0.33.0
