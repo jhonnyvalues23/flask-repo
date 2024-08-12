@@ -1,1 +1,1 @@
-web: python test.py
+web: pip install -r requirements.txt && python test.py
