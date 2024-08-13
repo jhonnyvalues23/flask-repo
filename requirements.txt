@@ -9,7 +9,7 @@ cmake==3.30.2
 colorama==0.4.6
 Cython==0.29.21
 deepface==0.0.92
-dlib @ file:///D:/FYP%20Code/FYP%20Code/dlib-19.24.99-cp312-cp312-win_amd64.whl#sha256=20c62e606ca4c9961305f7be3d03990380d3e6c17f8d27798996e97a73271862
+dlib
 filelock==3.15.4
 fire==0.6.0
 Flask==3.0.3
